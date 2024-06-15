@@ -135,7 +135,7 @@ Balancing professional obligations with ethical responsibilities.
 Ensuring Ethical Standards:
 Professional Codes of Conduct:
 Adhering to professional codes of conduct, such as the ACM Code of Ethics and Professional Conduct.
-EETHICAL FRAMEWORKS
+ETHICAL FRAMEWORKS
 Understanding and following ethical frameworks, such as those related to data privacy and algorithmic bias.
 Open Communication:
 Encouraging open communication within teams about ethical considerations and concerns.
@@ -146,6 +146,16 @@ Being accountable for the impact of software on users and societyr work?
 
 
 REFERENCES 
+
+
 Ethical Considerations in Software Engineering | MoldStud. (2024, February 14). https://moldstud.com/articles/p-ethical-considerations-in-software-engineering
+
+Lteif, G. (2024, April 24). Software Development Life Cycle (SDLC) Demystified: A thorough beginner’s handbook in software engineering. https://softwaredominos.com/home/software-design-development-articles/understanding-the-sdlc-in-software-engineering-a-comprehensive-guide/
+
 LTS Group. (2023, December 1). What is software maintenance? | Types, benefits, process and how to reduce costs. https://www.linkedin.com/pulse/what-software-maintenance-types-benefits-process-how-mkucc
-The importance of version control systems in software development | MoldStud. (2024, February 14). https://moldstud.com/articles/p-the-importance-of-version-control-systems-in-software-development
+
+The importance of version control systems in software 
+development | MoldStud. (2024, February 14). https://moldstud.com/articles/p-the-importance-of-version-control-systems-in-software-development
+
+SDLC - Software Development Life Cycle - javatpoint. (n.d.). www.javatpoint.com. https://www.javatpoint.com/software-engineering-software-development-life-cycle
+
